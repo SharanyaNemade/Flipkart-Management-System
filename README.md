@@ -1,5 +1,5 @@
 # Flipkart-Management-System
-A Flipkart clone built using Spring Boot, Java 17, Spring Security, Thymeleaf, and MySQL. It features secure user registration and login, role-based authentication, dynamic HTML rendering, and MVC architecture. Ideal for learning modern Java web app development with real-world practices.
+This Flipkart project is a database-enabled web application that implements secure user registration and login using Spring Boot and Spring Security. Built with Java 17, it leverages Maven, Thymeleaf for templating, Hibernate Validator for input validation, Spring Data JPA for ORM, and MySQL for persistent data storage. Spring Boot DevTools ensures rapid development with live reload support. This project follows MVC architecture and serves as a foundational blueprint for full-stack enterprise applications.
 
 
 
